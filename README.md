@@ -21,3 +21,9 @@ Contains information on understanding the predictive models and what the differe
 
 Chapter 6:
 Linear regression and learning the difference between explanitory and predictive modeling. This chapter is the first chapter in creating training and validation sets for modeling. We utilize pivot tables, OLS regression table, LinearRegression(), and regressionSummary.
+
+Chapter 7:
+K-Nearest Neighbors
+
+Chapter 8:
+The Naive Bayes Classifier
